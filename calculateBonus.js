@@ -7,4 +7,4 @@ const calculateBonus = (a, b) => {
   return bonus;
 };
 
-calculateBonus(234, 456);
+export default calculateBonus;
