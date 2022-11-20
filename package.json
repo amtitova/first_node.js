@@ -1,0 +1,22 @@
+{
+  "name": "first_node",
+  "version": "1.0.0",
+  "description": "HW 9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amtitova/first_node.js.git"
+  },
+  "author": "Titova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amtitova/first_node.js/issues"
+  },
+  "homepage": "https://github.com/amtitova/first_node.js#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
